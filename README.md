@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Jack 👋</h3>
+<h3 align="center">Hi, I'm Jack Qu 👋</h3>
 
 <p align="center">
   I build <b>AI for FinTech &amp; EdTech</b> — turning messy real-world problems<br>
