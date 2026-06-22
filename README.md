@@ -37,12 +37,3 @@
 
 - 🌐 **[Portfolio + case studies →](https://quxiangjie.github.io/)** — a multi-agent **RFP platform** (discovery → MCP product-matching → proposal → a real-time voice agent) and a production **education-standards platform** on AWS
 - 💼 **[LinkedIn →](https://www.linkedin.com/in/jack-qu-6b269b250/)** — experience, background, and what I'm building now
-
----
-
-<details>
-  <summary>📊 GitHub stats</summary>
-  <br>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=QuXiangjie&show_icons=true&hide_border=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuXiangjie&layout=compact&hide_border=true" />
-</details>
