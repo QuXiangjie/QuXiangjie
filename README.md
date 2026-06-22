@@ -37,9 +37,7 @@
 ### 🚀 Featured
 
 - 🌐 **[Portfolio + case studies →](https://quxiangjie.github.io/)** — a multi-agent **RFP platform** (discovery → MCP product-matching → proposal → a real-time voice agent) and a production **education-standards platform** on AWS
-- 🧠 **[OmegaWiki](https://github.com/QuXiangjie/OmegaWiki)** — wiki-centric AI research platform powered by Claude Code
-- 🤖 **[HexAgent](https://github.com/QuXiangjie/hexagent-agentharness-framework)** — an agent harness that gives any LLM a computer
-- 🔎 **[Ragchatbot-codebase](https://github.com/QuXiangjie/Ragchatbot-codebase)** — RAG-enhanced chatbot
+- 💼 **[LinkedIn →](https://www.linkedin.com/in/jack-qu-6b269b250/)** — experience, background, and what I'm building now
 
 ---
 
