@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI Engineer</b> — I turn messy business processes into production <b>agentic systems</b>.<br>
-  LLM agents that do real work end-to-end, built on the <b>Claude Agent SDK</b> with <b>MCP</b> and <b>RAG</b>.
+  LLM agents that do real work end-to-end — built on <b>Agentic Systems</b> · RAG, MCP, Tool-Use &amp; LLM Orchestration.
 </p>
 
 <p align="center">
