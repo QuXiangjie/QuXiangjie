@@ -41,12 +41,6 @@
 
 ---
 
-### 🌱 Currently
-
-Building production agentic systems — turning slow, manual workflows into LLM agents that *do* the work, not just answer questions. Open to **AI Engineer / Agent Developer / Forward Deployed Engineer** roles (CA · NY · remote).
-
----
-
 <details>
   <summary>📊 GitHub stats</summary>
   <br>
