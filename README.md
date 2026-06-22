@@ -7,8 +7,7 @@
 
 <p align="center">
   <a href="https://quxiangjie.github.io/">🌐 Portfolio &amp; case studies</a> ·
-  <a href="https://www.linkedin.com/in/jack-qu-6b269b250/">💼 LinkedIn</a> ·
-  <a href="mailto:qxjdaizi@gmail.com">✉️ Email</a>
+  <a href="https://www.linkedin.com/in/jack-qu-6b269b250/">💼 LinkedIn</a>
 </p>
 
 ---
