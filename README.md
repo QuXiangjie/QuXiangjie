@@ -22,13 +22,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 - **Agentic systems** — Claude Agent SDK, custom **MCP** servers (Python FastMCP + Node), tool-use, multi-agent orchestration
 - **Retrieval / RAG** — hybrid **pgvector** + full-text, Reciprocal Rank Fusion, OpenAI embeddings
 - **Backend & data** — Python, FastAPI, Domain-Driven Design, Postgres, MongoDB
-- **Cloud & infra** — AWS (ECS · RDS · Cognito), Docker, GitHub Actions CI/CD
+- **Cloud & infra** — AWS, Azure, Docker, GitHub Actions CI/CD
 - **Multi-modal & voice** — OpenAI Images, gpt-realtime voice agents (with Claude as the reasoning brain)
 
 ---
